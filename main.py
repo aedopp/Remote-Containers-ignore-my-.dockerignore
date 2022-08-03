@@ -1,1 +1,1 @@
-print('test')
+print('.dockerignore test from example')
